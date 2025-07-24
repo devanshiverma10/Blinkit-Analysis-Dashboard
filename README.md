@@ -82,5 +82,5 @@ Vacation Planning: Tourists can plan trips based on slope availability, elevatio
 Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - 
 ![Dashboard Preview](https://github.com/devanshiverma10/Blinkit-Analysis-Dashboard/blob/main/Dashboard%20snapshot.png)
