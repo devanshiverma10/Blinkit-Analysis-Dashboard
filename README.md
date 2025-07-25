@@ -29,7 +29,7 @@ What is the average customer rating across different outlet types?
 Do newer or older outlet establishments perform better in terms of revenue?
 … are difficult to answer quickly with raw data
 
-###•	Goal of the Dashboard
+### •	Goal of the Dashboard
 To deliver an interactive visual tool that:
 enables data-driven decisions to optimize operations and boost revenue.
 To provide a comprehensive visual analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution across various outlet types and product attributes.
