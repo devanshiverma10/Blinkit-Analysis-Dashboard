@@ -1,15 +1,10 @@
 # Blinkit-Analysis-Dashboard
-### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
 
-### 2.	Short Description / Purpose
+### 1.	Short Description / Purpose
 Conducted a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 
-### 3.	Tech Stack
+### 2.	Tech Stack
 List the key technologies used to build the dashboard.
 
 The dashboard was built using the following tools and technologies:<br>
@@ -19,15 +14,9 @@ The dashboard was built using the following tools and technologies:<br>
 •	📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
-Source: Ski-resort-stats.com & NASA Earth Observations. 
-
-Data 
 
 
-### 5.	Features / Highlights 
+### 3.	Features / Highlights 
 
 ### •	Business Problem
 Blinkit aimed to improve its sales strategy and customer satisfaction by analyzing how product attributes (like fat content and item type), outlet characteristics (such as location, size, and establishment year), and inventory distribution affect overall performance. The objective was to uncover patterns that could guide decisions on product placement, outlet expansion, and inventory optimization.
@@ -70,11 +59,19 @@ Allows users to dynamically filter data by outlet location type, outlet size, an
 
 
 ### •	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodie
 
-### 6.	Screenshots / Demos
-Show what the dashboard looks like. - 
+-Improved Product Strategy:
+Analysis revealed that regular-fat items significantly outperform low-fat ones in total sales, guiding inventory and marketing decisions toward more profitable product segments.
+
+-Outlet Tier Optimization:
+Tier 3 outlets contributed the highest sales, indicating untapped potential in less urban areas and suggesting a shift in focus for expansion and promotions.
+
+-Data-Driven Stocking Decisions:
+Household and snack food categories led in sales across most outlet types, helping prioritize high-demand inventory and reduce overstocking of low-performing items like seafood or breakfast.
+
+-Outlet Performance Benchmarking:
+Combining sales, ratings, and visibility KPIs highlighted Supermarket Type 1 as the best overall performer, providing a reference model for underperforming outlet types to improve operations.
+
+### 4.	Screenshots / Demos
+The dashboard looks like. - 
 ![Dashboard Preview](https://github.com/devanshiverma10/Blinkit-Analysis-Dashboard/blob/main/Dashboard%20snapshot.png)
