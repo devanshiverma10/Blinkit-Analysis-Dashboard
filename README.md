@@ -27,6 +27,7 @@ Blinkit aimed to improve its sales strategy and customer satisfaction by analyzi
 - How does outlet size (small, medium, large) influence sales distribution?                                             
 - What is the average customer rating across different outlet types?                                                          
 - Do newer or older outlet establishments perform better in terms of revenue?                                                 
+
 … are difficult to answer quickly with raw data
 
 ### •	Goal of the Dashboard
