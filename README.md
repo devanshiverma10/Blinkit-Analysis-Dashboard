@@ -22,11 +22,11 @@ The dashboard was built using the following tools and technologies:<br>
 Blinkit aimed to improve its sales strategy and customer satisfaction by analyzing how product attributes (like fat content and item type), outlet characteristics (such as location, size, and establishment year), and inventory distribution affect overall performance. The objective was to uncover patterns that could guide decisions on product placement, outlet expansion, and inventory optimization.
 
 ### Key questions such as:
-Which outlet types contribute the most to total sales?
-How does fat content (low fat vs regular) impact sales across different outlet tiers?
-How does outlet size (small, medium, large) influence sales distribution?
-What is the average customer rating across different outlet types?
-Do newer or older outlet establishments perform better in terms of revenue?
+-Which outlet types contribute the most to total sales?
+-How does fat content (low fat vs regular) impact sales across different outlet tiers?
+-How does outlet size (small, medium, large) influence sales distribution?
+-What is the average customer rating across different outlet types?
+-Do newer or older outlet establishments perform better in terms of revenue?
 … are difficult to answer quickly with raw data
 
 ### •	Goal of the Dashboard
