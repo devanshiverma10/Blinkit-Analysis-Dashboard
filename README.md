@@ -29,10 +29,10 @@ Data
 
 ### 5.	Features / Highlights 
 
-•	Business Problem
+### •	Business Problem
 Blinkit aimed to improve its sales strategy and customer satisfaction by analyzing how product attributes (like fat content and item type), outlet characteristics (such as location, size, and establishment year), and inventory distribution affect overall performance. The objective was to uncover patterns that could guide decisions on product placement, outlet expansion, and inventory optimization.
 
-Key questions such as:
+### Key questions such as:
 Which outlet types contribute the most to total sales?
 How does fat content (low fat vs regular) impact sales across different outlet tiers?
 How does outlet size (small, medium, large) influence sales distribution?
@@ -40,12 +40,12 @@ What is the average customer rating across different outlet types?
 Do newer or older outlet establishments perform better in terms of revenue?
 … are difficult to answer quickly with raw data
 
-•	Goal of the Dashboard
+###•	Goal of the Dashboard
 To deliver an interactive visual tool that:
 enables data-driven decisions to optimize operations and boost revenue.
 To provide a comprehensive visual analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution across various outlet types and product attributes.
 
-•	Walkthrough of Key Visuals
+### •	Walkthrough of Key Visuals
 -	Key KPIs
 -	Total Sales
 -	Average Sales
@@ -69,7 +69,7 @@ Combines total sales, average sales, rating, number of items, and item visibilit
 Allows users to dynamically filter data by outlet location type, outlet size, and item type for focused analysis.
 
 
-•	Business Impact & Insights
+### •	Business Impact & Insights
 Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
 Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
 Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
